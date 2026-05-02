@@ -138,14 +138,17 @@ http://localhost:3000
 * Priority Notifications Page
 * Filter Page
 * Mobile Responsive View
+<img width="1913" height="882" alt="Screenshot 2026-05-02 115832" src="https://github.com/user-attachments/assets/1f3a57e5-0c7c-49fa-b55a-8dbd04c0a216" />
+<img width="1894" height="887" alt="Screenshot 2026-05-02 120723" src="https://github.com/user-attachments/assets/c11fc028-a5c4-418e-9410-10298d916958" />
+<img width="1906" height="895" alt="Screenshot 2026-05-02 120741" src="https://github.com/user-attachments/assets/c8f35f1c-d2d1-4f6c-a709-4436c4851fd3" />
 
-*(Add screenshots here before submission)*
+
 
 ---
 
 ## 🎥 Demo Video
 
-*(Attach your demo video link here)*
+
 
 ---
 
